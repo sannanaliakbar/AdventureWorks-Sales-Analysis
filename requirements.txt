@@ -1,0 +1,6 @@
+pandas
+numpy
+plotly.express
+plotly.go_objects
+jupyter
+kaleido
